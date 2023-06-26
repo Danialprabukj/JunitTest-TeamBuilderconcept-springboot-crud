@@ -1,4 +1,4 @@
-Main objective of this spring boot application is only for testing.
+Main objective of this spring boot application is only for testing using Junit framework.
 
 https://github.com/baraneetharan/springbdd/tree/master/src/test/java/com/kgisl/springbdd/controller
 
